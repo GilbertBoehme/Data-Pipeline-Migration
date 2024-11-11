@@ -2,4 +2,6 @@ Understanding the complex dynamics between the natural environment and human mig
 
 The research findings suggest that decisions to migrate internationally to the EU27 are mainly motivated by socio-economic factors such as armed conflict, social networks, language commonality and higher wages. It challenges the common belief that climate change directly causes international migration by worsening living conditions. Drought disasters appear to hinder global migration to the EU27, while increasing climate anomalies increase migration from the Global North. Especially for poorer countries in the Global South, no significant effects were found for all climate variables.
 
-![Map_temp](https://github.com/user-attachments/assets/983bf8fc-4cfc-4164-85d9-90f23537cdd2)
+![continent_plots_mrate](https://github.com/user-attachments/assets/e25fb27e-3cc7-4fc7-bfce-cf655e841111)
+![europe_migflow](https://github.com/user-attachments/assets/c93aacc6-b6f6-45a9-b804-df801c5dffab)
+
